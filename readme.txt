@@ -8,3 +8,5 @@ Code of the Dockerfile is taken from https://www.youtube.com/watch?v=MJ1vWb1rGwM
 code for the docker deployment to Heroku taken from https://github.com/marketplace/actions/deploy-to-heroku
 
 Use the code from https://www.atlassian.com/git/tutorials/setting-up-a-repository for Git commands
+
+add -> commit -> push
