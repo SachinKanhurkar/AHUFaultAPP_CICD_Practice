@@ -16,3 +16,4 @@ jobs:
           heroku_app_name: "ahufaultapp-cicd" #Must be unique in Heroku
           heroku_email: "sachinkanhurkar78@gmail.com"
           usedocker: true
+# code is taken from https://github.com/marketplace/actions/deploy-to-heroku 
